@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+}
+
+.header__logo {
+    width: 100px;
+    height: 100px;
+}
+
+.header__icon {
+    width: 50px;
+    height: 50px;
+}
